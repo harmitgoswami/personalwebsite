@@ -109,9 +109,10 @@ a:hover {
 
 /* Images */
 .profilepic {
-  height: 100%;
-  width: 50%;
+  height: 591px;
+  width: 381px;
   border: 2px solid #ECB365;
+  background-color: white;
 }
 
 .javaimage {
@@ -124,10 +125,6 @@ a:hover {
   width: 25%;
   float: left;
   margin-right: 30px;
-}
-
-.profilepic {
-  background-color: white;
 }
 
 .skyline {
