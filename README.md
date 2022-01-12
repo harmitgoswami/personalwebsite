@@ -1,2 +1,2 @@
 # personalwebsite
-made using html5 &amp; css3, for professional use
+Made using html5, css3, &amp; bootstrap5. For professional use.
